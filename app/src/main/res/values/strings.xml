@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Green Store</string>
+    <string name="menu_product">Produk</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_about">Tentang</string>
+    <string name="success_order">Pembelian berhasil, silakan periksa email anda untuk mengunduh bukti transaksi</string>
+    <string name="total">Total</string>
+    <string name="name">Abet</string>
+    <string name="email">ambaraabet@gmail.com</string>
+    <string name="pay">Bayar</string>
+    <string name="title_name">Nama</string>
+    <string name="title_no_rek">No. Rek</string>
+    <string name="title_email">Email</string>
+    <string name="title_confirm">Konfirmasi Pembelian</string>
+    <string name="message_share">Coba cek deh barang ini!!</string>
+</resources>
